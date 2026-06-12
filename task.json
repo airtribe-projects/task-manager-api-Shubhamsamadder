@@ -4,7 +4,9 @@
       "id": 1,
       "title": "Set up environment",
       "description": "Install Node.js, npm, and git",
-      "completed": true
+      "completed": true,
+      "priority": "medium",
+      "createdAt": "2026-06-12T10:00:00.000Z"
     },
     {
       "id": 2,
